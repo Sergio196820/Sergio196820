@@ -1,13 +1,11 @@
-# 👩🏻‍💻 Sérgio Possa
+# 🧔‍♂️ Sérgio Possa
 
 **`Desenvolvedor FullStack`**
 
- Sou formado em Gestão Empresarial & E-business , com ênfase em Tecnologia da Informação, e possuo
- habilidades em diversas áreas da TI, como desenvolvimento de software, redes e infraestrutura de TI,
- segurança da informação, entre outras. Além disso, mantenho-me atualizado com as últimas tendências e
- tecnologias do mercado, a fim de estar sempre preparado para enfrentar os novos desafios.
- Destaco também que tenho experiência em liderança de equipe, o que me permite coordenar projetos de
- maneira eficaz e garantir a entrega de resultados de qualidade.
+Profissional formado em Gestão Empresarial & E-business, com ênfase em Tecnologia da Informação, trago uma combinação estratégica entre visão de negócios e expertise técnica.
+Atuo com competência em diversas áreas da TI, incluindo desenvolvimento, redes, infraestrutura e segurança da informação. Estou sempre em sintonia com as inovações e tendências do setor, buscando constante atualização para oferecer soluções modernas, eficientes e alinhadas às demandas do mercado.
+
+Além do domínio técnico, destaco minha sólida experiência em liderança de equipes, o que me permite conduzir projetos com eficiência, engajamento e foco em resultados de alto nível. Tenho como propósito transformar desafios em oportunidades, contribuindo de forma significativa para o crescimento organizacional. Meu "[Linkdin.]( https://br.linkedin.com/)" 
  
 
 <p align="left">
