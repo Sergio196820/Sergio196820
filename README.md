@@ -5,14 +5,14 @@
 Profissional formado em Gestão Empresarial & E-business, com ênfase em Tecnologia da Informação, trago uma combinação estratégica entre visão de negócios e expertise técnica.
 Atuo com competência em diversas áreas da TI, incluindo desenvolvimento, redes, infraestrutura e segurança da informação. Estou sempre em sintonia com as inovações e tendências do setor, buscando constante atualização para oferecer soluções modernas, eficientes e alinhadas às demandas do mercado.
 
-Além do domínio técnico, destaco minha sólida experiência em liderança de equipes, o que me permite conduzir projetos com eficiência, engajamento e foco em resultados de alto nível. Tenho como propósito transformar desafios em oportunidades, contribuindo de forma significativa para o crescimento organizacional. Meu "[Linkdin.]( https://br.linkedin.com/)" 
+Além do domínio técnico, destaco minha sólida experiência em liderança de equipes, o que me permite conduzir projetos com eficiência, engajamento e foco em resultados de alto nível. Tenho como propósito transformar desafios em oportunidades, contribuindo de forma significativa para o crescimento organizacional. Meu "[Linkedin.]( https://br.linkedin.com/)" 
  
 
 <p align="left">
     <a href="https://www.youtube.com/">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="sem titulo" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
