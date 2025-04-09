@@ -11,7 +11,7 @@ Além do domínio técnico, destaco minha sólida experiência em liderança de 
 <p align="left">
     <a href="https://www.youtube.com/">
         <img 
-            alt="youtube subscribers" 
+            alt="youtube" 
             title="sem titulo" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
